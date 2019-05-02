@@ -1,2 +1,2 @@
 # rain-game
-University of Oregon Summer Enrichment Program NetLogo Rain Game 2012
+2012 University of Oregon Summer Enrichment Program NetLogo Rain Game
